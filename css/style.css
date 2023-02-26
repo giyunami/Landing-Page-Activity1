@@ -110,7 +110,7 @@
   section{
     width: 100vw;
     height: 100vh;
-    background: url(/img/pexels-rodnae-productions-7978821.jpg)no-repeat;
+    background: url(./img/pexels-rodnae-productions-7978821.jpg)no-repeat;
     background-position: bottom;
     background-size: cover;
     display: block;
@@ -163,7 +163,7 @@ p{
 .potions{
   width: 100vw;
   height: 100vh;
-  background: url(/img/pxfuel\ \(1\).jpg)no-repeat;
+  background: url(./img/pxfuel\ \(1\).jpg)no-repeat;
   background-position: bottom;
   background-size: cover;
   display: flex;
@@ -222,7 +222,7 @@ h2 {
 .service {
   width: 100%;
   height: 80vh;
-  background: url(/img/lasy.jpg);
+  background: url(./img/lasy.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
