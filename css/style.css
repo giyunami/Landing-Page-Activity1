@@ -66,6 +66,9 @@
   .nav-links li{
     margin: 0 30px;
   }
+  * {box-sizing: border-box}
+
+
 
   header {
     width: 100vw;
